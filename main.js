@@ -1,6 +1,5 @@
 var cron = require('cron');
 var exec = require('exec');
-var fs = require('fs');
 
 //diretorio raiz dos repositórios
 var rootDir = '';
